@@ -11,7 +11,7 @@
 
 ## Tela Home
 
-![alt text](https://github.com/MaiconCampbell/BootCamp_DIO_React_Native_Desafio_01/blob/main/assets/tela_portfolio.jpg)
+![alt text](https://github.com/MaiconCampbell/BootCamp_DIO_React_Native_Desafio_02/blob/main/assets/tela_portfolio.jpg)
 
 <div>
   <p style='font-size: 22px'>

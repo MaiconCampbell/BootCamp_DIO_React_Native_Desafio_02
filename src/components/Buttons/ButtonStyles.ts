@@ -2,6 +2,7 @@ import { StyleSheet } from 'react-native';
 
 export const styles = StyleSheet.create({
   btn: {
+    flexDirection: 'row',
     justifyContent: 'center',
     alignItems: 'center',
     width: '100%',
@@ -24,6 +25,7 @@ export const styles = StyleSheet.create({
   btnText: {
     color: '#FFF',
     fontSize: 25,
-    fontWeight: 'bold'
+    fontWeight: 'bold',
+    marginLeft: 12
   }
 });
